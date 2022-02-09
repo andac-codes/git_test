@@ -1,0 +1,5 @@
+ilk kez bir .txt dosyasını edit'liyorum. bakalım başarabilecek miyim?
+ilk kez bir .txt dosyasında ikinci satıra geçtim.
+backspace ile bir satırın silinebildiğini gördüm.
+enter ile alt satıra geçiyoruz.
+delete bulunduğumuz satırı silmiyor.
